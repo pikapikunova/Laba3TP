@@ -1,0 +1,12 @@
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nasty\source\repos\Laba 3TP\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete

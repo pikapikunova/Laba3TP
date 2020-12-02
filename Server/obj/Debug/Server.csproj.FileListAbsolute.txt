@@ -1,0 +1,15 @@
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\Server.exe.config
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\Server.exe
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\Server.pdb
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\ClassLibrary.dll
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\Nasty\source\repos\Laba 3TP\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Nasty\source\repos\Laba 3TP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nasty\source\repos\Laba 3TP\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Nasty\source\repos\Laba 3TP\Server\obj\Debug\Server.exe
+C:\Users\Nasty\source\repos\Laba 3TP\Server\obj\Debug\Server.pdb
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\EntityFramework.dll
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\ClassLibrary.dll.config
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\EntityFramework.xml
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nasty\source\repos\Laba 3TP\Server\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище PersonModelContainer" CdmEntityContainer="PersonContext">
+    <EntitySetMapping Name="Table_1">
+      <EntityTypeMapping TypeName="PersonModel.Table_1">
+        <MappingFragment StoreEntitySet="Table_1">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Growth" ColumnName="Growth" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="HowMuchKkal" ColumnName="HowMuchKkal" />
+          <ScalarProperty Name="HowMuchKkalToday" ColumnName="HowMuchKkalToday" />
+          <ScalarProperty Name="HowMuchMinuteNow" ColumnName="HowMuchMinuteNow" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
